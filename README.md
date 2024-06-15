@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-NumPy-5974c9?style=flat-square&logo=NumPy&logoColor=fff)
 ![](https://img.shields.io/badge/-PyTorch-d6543c?style=flat-square&logo=PyTorch&logoColor=fff)
 <br />
+
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=DayDreamChaser)]()
