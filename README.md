@@ -8,19 +8,18 @@
 ![](https://hit.yhype.me/github/profile?user_id=25005856)
 </div>
 
-<div align="right">
-  
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=DayDreamChaser)]()
-
-</div>
-
 About me:
 - 🔭 I’m currently working on NLP/LLM
 - 🌱 I’m currently learning: 
   - LLM
   - ComputerSystem
   - Marxists
-- ⚡ Fun fact: ...
+  - 
+<div align="center">
+  
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=DayDreamChaser)]()
+
+</div>
 
 
 🌟 My Skills:
