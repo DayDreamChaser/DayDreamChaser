@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi there 👋
+## DayDreamChaser 👋
 🌟 Learn By Practice🌟 
 
 ![Stars](https://img.shields.io/github/stars/DayDreamChaser?affiliations=OWNER%2CCOLLABORATOR&label=Stars)
