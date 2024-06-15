@@ -9,6 +9,8 @@
 
 </div>
 
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=DayDreamChaser)]()
+
 Here are some ideas to get you started:
 - 🔭 I’m currently working on NLP/LLM
 - 🌱 I’m currently learning: 
@@ -25,4 +27,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-PyTorch-d6543c?style=flat-square&logo=PyTorch&logoColor=fff)
 <br />
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=DayDreamChaser)]()
+
