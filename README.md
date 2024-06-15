@@ -9,9 +9,12 @@
 </div>
 
 <div align="right">
+  
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=DayDreamChaser)]()
+
 </div>
-Here are some ideas to get you started:
+
+About me:
 - 🔭 I’m currently working on NLP/LLM
 - 🌱 I’m currently learning: 
   - LLM
