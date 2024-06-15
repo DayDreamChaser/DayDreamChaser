@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **DayDreamChaser/DayDreamChaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,7 +9,7 @@ Here are some ideas to get you started:
   - ComputerSystem
   - Marxists
 - ⚡ Fun fact: ...
--->
+
 
 🌟 My Skills:
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
