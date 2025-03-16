@@ -13,8 +13,6 @@ About me:
 - 🌱 I’m currently learning: 
   - LLM
   - ComputerSystem
-  - Marxists
-  - 
 <div align="center">
   
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=DayDreamChaser)]()
